@@ -1,10 +1,11 @@
 
 body {
-    background-color: cadetblue;
+    background-image: linear-gradient(45deg, lightblue, lightgreen);
 }
 
 h1, h2 { 
     text-align: center;
+    color: brown;
 }
 
 .container {
